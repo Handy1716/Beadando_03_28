@@ -11,7 +11,7 @@ export default function Navbar() {
       <Nav
       activeKey="/fooldal"
       onSelect={(selectedKey) => alert(`selected ${selectedKey}`)}
-    >a
+    >
     </Nav>
     <Tabs
       defaultActiveKey="profile"

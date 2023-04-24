@@ -11,7 +11,7 @@ export default function Tapasztalat() {
                 <li>Karácsonyi bál, 2021. 12. 22.</li>
                 <li>Farsangi mulatság, 2022. 02. 20.</li>
             </ul>
-            a
+            
             <h3>Professzionális bulik</h3>
             <ul>
                 <li>Tanárkarácsony, 2021. 12. 20.</li>
