@@ -20,5 +20,5 @@ export default function Idopont() {
             <div>{visible}</div>
             
         </form>
-    )
+    )a
 }

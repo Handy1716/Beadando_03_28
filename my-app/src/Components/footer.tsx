@@ -8,4 +8,4 @@ export default function Footer() {
             <h5>Készítette: Polgár Kristóf</h5>
         </div>
     )
-}
+}a
