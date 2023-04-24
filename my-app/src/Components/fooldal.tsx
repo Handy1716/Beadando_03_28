@@ -9,4 +9,4 @@ export default function Fooldal() {
             <img src="dj.jpg" className="kep" alt="dj.jpg" />
         </div>
     )
-}a
+}
