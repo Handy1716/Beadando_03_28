@@ -20,4 +20,7 @@ code {
 .tapdiv{
   text-align: right;
 }
+.left{
+  float:left;
+}
 
